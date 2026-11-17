@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+tests/simplewebauthn/node_modules/
+*.passkey

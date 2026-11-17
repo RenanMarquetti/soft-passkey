@@ -1,0 +1,2 @@
+{ "name": "soft-passkey-simplewebauthn-check", "private": true, "type": "module",
+  "dependencies": { "@simplewebauthn/server": "13.3.3" } }
